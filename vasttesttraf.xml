@@ -5,20 +5,20 @@
         <![CDATA[ Ad ]]>
       </AdSystem>
       <AdTitle>
-        <![CDATA[ VAST ]]>
+        <![CDATA[ VPAID ]]>
       </AdTitle>
       <Impression>
-        <![CDATA[ https://tinyurl.com/vasttestadillaadult ]]>
+        <![CDATA[ https://tinyurl.com/dalyusavast ]]>
       </Impression>
       <Creatives>
         <Creative>
           <Linear>
-            <Duration>00:05:00</Duration>
+            <Duration>00:00:05</Duration>
             <AdParameters>
-              <![CDATA[ {"video_id":"NRv9K6kG-Dg","skipTime":"10","dit":"1","externalSkipTime":"5","embed_url":"https:\/\/www.google.com\/url?sa=D&q=https:\/\/www.youtube.com\/embed\/NRv9K6kG-Dg%3Fenablejsapi%3D1%26origin%3D*%26playsinline%3D1","buttonText":{"skipTime":"Skip Ad In {timer}","skipText":"Skip"}} ]]>
+              <![CDATA[ {"video_id":"NRv9K6kG-Dg","skipTime":"5","dit":"1","externalSkipTime":"5","embed_url":"https:\/\/www.google.com\/url?sa=D&q=https:\/\/www.youtube.com\/embed\/NRv9K6kG-Dg%3Fenablejsapi%3D1%26origin%3D*%26playsinline%3D1","buttonText":{"skipTime":"Skip Ad In {timer}","skipText":"Skip"}} ]]>
             </AdParameters>
             <MediaFiles>
-              <MediaFile delivery="progressive" type="application/javascript" width="640" height="480" apiFramework="VAST">
+              <MediaFile delivery="progressive" type="application/javascript" width="640" height="480" apiFramework="VPAID">
                 <![CDATA[ https://script.vast.wtf/vast-service/vpaid-stream.js ]]>
               </MediaFile>
             </MediaFiles>
